@@ -8,7 +8,13 @@
 <p>A link will be added to Neuron upon it's completion.</p>
 <p>You could also parse the Data yourself and use it in your own script.</p>
 
-<h1>Credits</h1>
+<h2>Changes to be made<h/2>
+  <p>`~~~~~~~~~`
+  * Make an alogorithm that checks data that has been collected with the data just collected and only add the new data(oh boy).
+  * Make a catagorizing system to put different entities into different groups.
+    `~~~~~~~~~`</p>
+
+<h2>Credits</h2>
 
   ~Zoltar
   
