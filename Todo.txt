@@ -1,0 +1,4 @@
+`~~~~~~~~~`
+* Make an alogorithm that checks data that has been collected with the data just collected and only add the new data(oh boy).
+* Make a catagorizing system to put different entities into different groups.
+`~~~~~~~~~`
