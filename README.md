@@ -12,4 +12,4 @@
 
   ~Zoltar
   
-  ~Parse(helped with the bot. thanks chief)
+  ~Parse - helped with the bot. thanks chief.
