@@ -8,12 +8,4 @@
 <p>A link will be added to Neuron upon it's completion.</p>
 <p>You could also use the Data in your own script too.</p>
 
-<h2>Changes to be made</h2>
-  <p>
-  
-   * Make an alogorithm that checks data that has been collected with the data just collected and only add the new data, but until I work out an algorithm some data might reoccur.
-
-  * Make a catagorizing system to put different entities into different groups.
-  </p>
-
 
