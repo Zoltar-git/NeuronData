@@ -12,11 +12,11 @@ let pbd = $.get('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Items/
 let ppd = $.get('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Player/players.txt');
 
 setTimeout(()=>{
-	bodyData = pbd.responseText;
-	playerData = ppd.responseText;
+	bodyData = pbd.responseText.split(',');
+	playerData = ppd.responseText.split(',');
 },1000)
 ```
-<p>for use in your own script use the code up above.</p>
+<p>for use in your own script use the code up above. Must be run in Manyland or any environment that includes jQuery.</p>
 
 <h2>Future updates</h2>
 
