@@ -8,8 +8,8 @@
 <p>A link will be added to Neuron upon it's completion.</p>
 
 ```js
-let pbd = $.get('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Items/bodys.txt');
-let ppd = $.get('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Player/players.txt');
+let pbd = $.get('https://raw.githack.com/Zoltar-git/NeuronData/master/Items/bodys.txt');
+let ppd = $.get('https://raw.githack.com/Zoltar-git/NeuronData/master/Player/players.txt');
 
 setTimeout(()=>{
 	bodyData = pbd.responseText.split(',');
