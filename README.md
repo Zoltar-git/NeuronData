@@ -9,4 +9,5 @@
 <p>You could also use the Data in your own script too.</p>
 
 <h2>Future updates</h2>
-  *Add a section for dynamics and also one for items
+
+  * Add a section for dynamics and also one for items
