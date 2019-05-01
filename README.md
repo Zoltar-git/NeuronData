@@ -6,7 +6,13 @@
 
 <p>The information that is collected with Neurobot is sent here and then used in another script called Neuron.</p>
 <p>A link will be added to Neuron upon it's completion.</p>
-<p>You could also use the Data in your own script too.</p>
+
+```js
+(async () => {
+	await $.getScript('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Items/bodys.txt');
+	});
+```
+<p>Use the code up above to use in your own script</p>
 
 <h2>Future updates</h2>
 
