@@ -8,11 +8,15 @@
 <p>A link will be added to Neuron upon it's completion.</p>
 
 ```js
-(async () => {
-	await $.getScript('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Items/bodys.txt');
-	});
+let pbd = $.get('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Items/bodys.txt');
+let ppd = $.get('https://cdn.jsdelivr.net/gh/Zoltar-git/NeuronData@latest/Player/players.txt');
+
+setTimeout(()=>{
+	bodyData = pbd.responseText;
+	playerData = ppd.responseText;
+},1000)
 ```
-<p>Use the code up above to use in your own script</p>
+<p>for use in your own script use the code up above.</p>
 
 <h2>Future updates</h2>
 
