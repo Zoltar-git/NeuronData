@@ -5,7 +5,6 @@
 <h2>How is it used?</h2>
 
 The information that is collected with Neurobot is sent here and then used in another script called [Neuron](https://zoltar-git.github.io/NeuronJS)
-<p>A link will be added to Neuron upon it's completion.</p>
 
 ```js
 let pbd = $.get('https://raw.githack.com/Zoltar-git/NeuronData/master/Items/bodys.txt');
